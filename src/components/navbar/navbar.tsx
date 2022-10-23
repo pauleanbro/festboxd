@@ -1,6 +1,6 @@
 export const Navbar = () => {
   return (
-    <nav className="flex flex-row justify-evenly items-center m-5 rounded-lg bg-gray-800 shadow-lg p-4">
+    <nav className="flex flex-row justify-between items-center m-5 rounded-lg bg-gray-800 shadow-lg p-4">
       <div className="flex flex-row gap-4 items-center">
         <div className="flex flex-row gap-1 items-center">
           <div className="w-4 h-4 bg-yellow-500 rounded-full"></div>
